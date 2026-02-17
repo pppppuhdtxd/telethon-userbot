@@ -1,4 +1,16 @@
+# Telethon sessions
 *.session
 *.session-journal
+
+# Secrets & configs
 .env
+config.json
+*_settings.json
+
+# Python
 __pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
