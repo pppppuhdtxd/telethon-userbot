@@ -1,0 +1,136 @@
+{
+    "global": {
+        "pic": {
+            "state": false,
+            "scope": 3
+        },
+        "txt": {
+            "state": false,
+            "scope": 3
+        },
+        "vid": {
+            "state": false,
+            "scope": 3
+        },
+        "file": {
+            "state": false,
+            "scope": 3
+        },
+        "media": {
+            "state": false,
+            "scope": 3
+        }
+    },
+    "bots": {
+        "6605168774": {
+            "pic": {
+                "state": false,
+                "scope": 3
+            },
+            "txt": {
+                "state": false,
+                "scope": 3
+            },
+            "vid": {
+                "state": false,
+                "scope": 3
+            },
+            "file": {
+                "state": false,
+                "scope": 3
+            },
+            "media": {
+                "state": false,
+                "scope": 3
+            }
+        },
+        "7571361022": {
+            "pic": {
+                "state": false,
+                "scope": 3
+            },
+            "txt": {
+                "state": true,
+                "scope": 3
+            },
+            "vid": {
+                "state": false,
+                "scope": 3
+            },
+            "file": {
+                "state": false,
+                "scope": 3
+            },
+            "media": {
+                "state": false,
+                "scope": 3
+            }
+        },
+        "7592884805": {
+            "pic": {
+                "state": false,
+                "scope": 3
+            },
+            "txt": {
+                "state": false,
+                "scope": 3
+            },
+            "vid": {
+                "state": false,
+                "scope": 3
+            },
+            "file": {
+                "state": false,
+                "scope": 3
+            },
+            "media": {
+                "state": false,
+                "scope": 3
+            }
+        },
+        "8324592568": {
+            "pic": {
+                "state": true,
+                "scope": 3
+            },
+            "txt": {
+                "state": false,
+                "scope": 3
+            },
+            "vid": {
+                "state": false,
+                "scope": 3
+            },
+            "file": {
+                "state": false,
+                "scope": 3
+            },
+            "media": {
+                "state": false,
+                "scope": 3
+            }
+        },
+        "7564372503": {
+            "pic": {
+                "state": false,
+                "scope": 3
+            },
+            "txt": {
+                "state": false,
+                "scope": 3
+            },
+            "vid": {
+                "state": false,
+                "scope": 3
+            },
+            "file": {
+                "state": false,
+                "scope": 3
+            },
+            "media": {
+                "state": false,
+                "scope": 3
+            }
+        }
+    }
+}

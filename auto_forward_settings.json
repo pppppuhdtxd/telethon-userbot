@@ -1,0 +1,25 @@
+{
+    "global": {
+        "txt": false,
+        "pic": false,
+        "vid": true,
+        "file": true,
+        "caption": false
+    },
+    "bots": {
+        "7934431882": {
+            "txt": false,
+            "pic": true,
+            "vid": true,
+            "file": true,
+            "caption": false
+        },
+        "7592884805": {
+            "txt": false,
+            "pic": false,
+            "vid": false,
+            "file": true,
+            "caption": true
+        }
+    }
+}
