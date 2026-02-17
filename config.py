@@ -2,8 +2,8 @@
 # Centralized configuration file for userbot settings and credentials.
 
 # ---------- Credentials ----------
-API_ID = 20337851
-API_HASH = "51a65fa546f0ae5530d74079d3d00e04"
+API_ID = 0
+API_HASH = "x"
 SESSION_NAME = "my session"
 SESSION_FILENAME = f"{SESSION_NAME}.session"
 
